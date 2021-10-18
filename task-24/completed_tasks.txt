@@ -1,0 +1,52 @@
+Project ID number: 1
+Project name: disco
+Building type: tower
+Address: woodstock
+ERF: 123456
+Fee: 20000
+Amount paid: 10000
+Due date: 21-09-2021
+Project status: incomplete
+Customer details
+name: customerA
+telephone number: teleA
+email: emailA
+address: addressA
+Architect details
+name: architectA
+telephone number: teleA
+email: emailA
+address: addressA
+Contractor details
+name: contractorA
+telephone number: teleA
+email: emailA
+address: addressA
+Completion date: 12/09/2021
+------------------------------------------------------------------------------------
+Project ID number: 2
+Project name: do_it
+Building type: skyscraper
+Address: muizenburg
+ERF: 123654
+Fee: 1000
+Amount paid: 200
+Due date: 26-09-2021
+Project status: incomplete
+Customer details
+name: customerA
+telephone number: teleA
+email: emailA
+address: addressA
+Architect details
+name: architectA
+telephone number: teleA
+email: emailA
+address: addressA
+Contractor details
+name: contractorA
+telephone number: teleA
+email: emailA
+address: addressA
+Completion date: 12/09/2021
+------------------------------------------------------------------------------------

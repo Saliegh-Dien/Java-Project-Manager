@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"add_new_project"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"architect"},{"p":"<Unnamed>","l":"contractor"},{"p":"<Unnamed>","l":"customer"},{"p":"<Unnamed>","l":"editing_projects"},{"p":"<Unnamed>","l":"main_class"}];updateSearchResults();

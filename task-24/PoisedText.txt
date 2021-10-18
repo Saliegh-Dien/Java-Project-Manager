@@ -1,0 +1,3 @@
+3,mcdonalds's,shop,ottery,132546,500000,300000,31-10-2021,incomplete,customerA,teleA,emailA,addressA,architectA,teleA,emailA,addressA,contractorA,teleA,emailA,addressA
+4,spar,market,johannesburg,635241,200000,100000,24-08-2021,incomplete,customerA,teleA,emailA,addressA,architectA,teleA,emailA,addressA,contractorA,teleA,emailA,addressA
+5,spur,restaurant,woodstock,524136,25000,23000,25-08-2021,incomplete,customerA,teleA,emailA,addressA,architectA,teleA,emailA,addressA,contractorA,teleA,emailA,addressA

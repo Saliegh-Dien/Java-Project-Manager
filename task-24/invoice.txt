@@ -1,0 +1,14 @@
+Customer details: 
+name: customerA
+telephone number: teleA
+email: emailA
+address: addressA
+Remaining amount due: R10000
+------------------------------------------------------------------------------------
+Customer details: 
+name: customerA
+telephone number: teleA
+email: emailA
+address: addressA
+Remaining amount due: R800
+------------------------------------------------------------------------------------
