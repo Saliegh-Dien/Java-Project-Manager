@@ -1,4 +1,4 @@
-# Java-Project-Manager
+# Java-Project-Manager using text files
 This is a java project manger made for a ficticous company called poised
 The program can write to files
 Creates employees as objects
